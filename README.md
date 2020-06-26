@@ -6,3 +6,4 @@
 4a. Local text 1+
 5. Local text 2
 6. Remote text 1
+7. Remote text 2
