@@ -1,8 +1,4 @@
 # Project-001
-New test project ...
-
-Hey Hey, hello world!
-
-An additional line of text.
-
-one more thing ...
+1. New test project ...
+2. Hey Hey, hello world!
+3. A line of text.
